@@ -6,6 +6,8 @@ Mini-Tech-Meetup 은 각자 원하는 주제로 매주 진행하는 세미나 �
 ## Session
 
 1. Why what how kotlin 
+![image](https://user-images.githubusercontent.com/10369528/92321923-f96a9c00-f068-11ea-9bc6-34289087bf60.png)
+
  - 발표자 : 고세원
  - Date : 2020.09.01
  - Presentation Link : [Link](https://www.slideshare.net/SewonKo/why-what-how-kotlin-238369286)
