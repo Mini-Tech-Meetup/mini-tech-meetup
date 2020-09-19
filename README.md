@@ -22,8 +22,13 @@ Mini-Tech-Meetup 은 각자 원하는 주제로 매주 진행하는 세미나 �
  - Presentation Video : [Link](https://youtu.be/s05MHP7zyPE)
  
 3. Start Spark!
+![image](https://user-images.githubusercontent.com/10369528/93666103-55481280-fab6-11ea-9da7-889118559666.png)
+
  - 발표자 : 백종현
  - Date : 2020.09.15
+ - Presentation Link : [Link](https://www.slideshare.net/ssuser31a17d/start-spark)
+ - Presentation Video : [Link](https://youtu.be/Dvm-TQa1B-I)
+ 
 4. Class VS Proto
  - 발표자 : 장준영
  - Date : 2020.09.22
