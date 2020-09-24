@@ -29,9 +29,13 @@ Mini-Tech-Meetup 은 각자 원하는 주제로 매주 진행하는 세미나 �
  - Presentation Link : [Link](https://www.slideshare.net/ssuser31a17d/start-spark)
  - Presentation Video : [Link](https://youtu.be/Dvm-TQa1B-I)
  
-4. Class VS Proto
+4. Class in Javascript
+![image](https://user-images.githubusercontent.com/61405355/94094369-48327700-fe5a-11ea-98d3-6d806ba99142.png)
+
  - 발표자 : 장준영
- - Date : 2020.09.22
+ - Date : 2020.09.23
+ - Presentation Link:  [Link](https://www.slideshare.net/secret/a2BUYiTn7hPn9A)
+ - Presentation Video:  
 
 
 
@@ -39,3 +43,4 @@ Mini-Tech-Meetup 은 각자 원하는 주제로 매주 진행하는 세미나 �
  - [Lee-WonJun](https://github.com/Lee-WonJun)
  - [JHyunB](https://github.com/JHyunB)
  - [dream365](https://github.com/dream365)
+ - [JunYoung7](https://github.com/JunYoung7)
