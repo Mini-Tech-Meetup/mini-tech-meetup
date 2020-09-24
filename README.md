@@ -35,7 +35,7 @@ Mini-Tech-Meetup 은 각자 원하는 주제로 매주 진행하는 세미나 �
  - 발표자 : 장준영
  - Date : 2020.09.23
  - Presentation Link:  [Link](https://www.slideshare.net/secret/a2BUYiTn7hPn9A)
- - Presentation Video:  
+ - Presentation Video:  [Link](https://youtu.be/xQwMEiN1e8Y)
 
 
 
