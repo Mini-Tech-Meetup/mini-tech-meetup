@@ -37,6 +37,12 @@ Mini-Tech-Meetup 은 각자 원하는 주제로 매주 진행하는 세미나 �
  - Presentation Link:  [Link](https://www.slideshare.net/secret/a2BUYiTn7hPn9A)
  - Presentation Video:  [Link](https://youtu.be/xQwMEiN1e8Y)
 
+5. Junction X Seoul
+
+![image](https://user-images.githubusercontent.com/10369528/95670230-8605fe00-0bc3-11eb-9b44-d950a4cbb9be.png) 
+ - 참가자 : 고세원, 이원준, 백종현, 장준영
+ - Date : 2020.10.09~2020.10.11
+ - Link : [Link](https://github.com/Mini-Tech-Meetup/meetube-description)
 
 
 ## 참가자
