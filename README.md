@@ -44,7 +44,7 @@ Mini-Tech-Meetup 은 각자 원하는 주제로 매주 진행하는 세미나 �
  - Date : 2020.10.09~2020.10.11
  - Link : [Link](https://github.com/Mini-Tech-Meetup/meetube-description)
  
- 6. Problem Solving [The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray/problem)
+ 6. Problem Solving  [[The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray/problem)]
  - 참가자 : 고세원, 이원준, 백종현, 장준영, 최록산
  - Date : 2020.10.20
  - Link : [Link](https://github.com/Mini-Tech-Meetup/ProblemSolving/tree/main/Hacker%20Rank/2020-10-20/The%20Maximum%20Subarray)
