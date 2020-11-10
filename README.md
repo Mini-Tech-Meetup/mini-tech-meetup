@@ -49,6 +49,10 @@ Mini-Tech-Meetup 은 각자 원하는 주제로 매주 진행하는 세미나 �
  - Date : 2020.10.20
  - Link : [Link](https://github.com/Mini-Tech-Meetup/ProblemSolving/tree/main/Hacker%20Rank/2020-10-20/The%20Maximum%20Subarray)
 
+ 6. Problem Solving  
+ - [[Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)]
+ - [[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)]
+ - Date : 2020.11.10
 
 ## 참가자
  - [Lee-WonJun](https://github.com/Lee-WonJun)
